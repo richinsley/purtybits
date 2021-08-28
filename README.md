@@ -75,4 +75,5 @@ func main() {
 ```
 
 Output:
+
 ![bash output](/images/purtybits_output.png)
